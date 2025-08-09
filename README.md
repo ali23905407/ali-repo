@@ -1,6 +1,6 @@
 # ali-repo
 just testing github
-from flask import Flask, render_template_strin
+from flask import Flask, render_template_string
 
 app = Flask(__name__)
 
