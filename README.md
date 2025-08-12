@@ -9,4 +9,4 @@ def home():
     return render_template_string("<h1>سلام! به وب اپلیکیشن من خوش آمدید.</h1>")
 
 if __name__ == '__main__':
-    app.run(debug=Tru)
+    app.run(debug=True)
